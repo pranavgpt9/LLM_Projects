@@ -1,3 +1,4 @@
+
 #LLM_Projects
 
 #Chatbot-Generative AI
@@ -19,7 +20,7 @@ git push -u origin main
 
 #Project Install
 
-1. conda create -n pgbot python=3.10 -y
-2. conda activate pgbot
+1. conda create -n gptbot python=3.10 -y
+2. conda activate gptbot
 3. pip install -r requirements.txt
 
